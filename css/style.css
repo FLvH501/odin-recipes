@@ -10,20 +10,23 @@ title {
 }
 
 .class-for-parmo,
-.class-for-pizza {
-    background-color: blanchedalmond;
-    color: cornflowerblue;
+.class-for-pizza,
+.class-for-pancakes {
     text-align: center;
 }
 
-.class-for-parmo h1 {
+.class-for-parmo h1,
+.class-for-pizza h1,
+.class-for-pancakes h1 {
     color: rgb(211, 106, 95);
     text-decoration: underline;
     text-decoration-color: rgb(211, 106, 95);
 }
 
-.class-for-parmo footer {
-    font-size: large;
+.class-for-parmo footer,
+.class-for-pizza footer,
+.class-for-pancakes footer {
+    font-size: small;
     text-align: left;
 }
 
@@ -31,6 +34,7 @@ title {
 
 .class-for-parmo #description-title,
 #ingredients-title,
-#steps-title {
+#steps-title,
+{
     font-size: large;
 }
