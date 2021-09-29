@@ -1,0 +1,36 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: blanchedalmond;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+title {
+    font-size: 50px;
+}
+
+.class-for-parmo,
+.class-for-pizza {
+    background-color: blanchedalmond;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.class-for-parmo h1 {
+    color: rgb(211, 106, 95);
+    text-decoration: underline;
+    text-decoration-color: rgb(211, 106, 95);
+}
+
+.class-for-parmo footer {
+    font-size: large;
+    text-align: left;
+}
+
+.class-for-parmo #ingredients {}
+
+.class-for-parmo #description-title,
+#ingredients-title,
+#steps-title {
+    font-size: large;
+}

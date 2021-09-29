@@ -1,0 +1,13 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: brown;
+}
+
+title {
+    font-size: 48px;
+}
+
+.class-for-parmo {
+    background-color: black;
+    color: white;
+}
